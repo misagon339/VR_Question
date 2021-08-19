@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR_Question", "VR_Question\VR_Question.csproj", "{E8E8BD85-50FD-4BD0-8062-E4625CD9A93A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Installer", "Installer\Installer.vdproj", "{6B77B435-C254-47CD-98A6-D82A9F623992}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8E8BD85-50FD-4BD0-8062-E4625CD9A93A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8E8BD85-50FD-4BD0-8062-E4625CD9A93A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8E8BD85-50FD-4BD0-8062-E4625CD9A93A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8E8BD85-50FD-4BD0-8062-E4625CD9A93A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B77B435-C254-47CD-98A6-D82A9F623992}.Debug|Any CPU.ActiveCfg = Debug
+		{6B77B435-C254-47CD-98A6-D82A9F623992}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54D094C7-7818-47C4-AEB7-8905F17ABE03}
+	EndGlobalSection
+EndGlobal
